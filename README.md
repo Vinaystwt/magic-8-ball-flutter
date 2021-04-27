@@ -1,0 +1,1 @@
+Magic 8 ball is the kind of game where whatever you will ask the ball and click it , the ball will answer you with some kind of inbuild message
