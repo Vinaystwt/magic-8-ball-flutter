@@ -1,1 +1,2 @@
-*.Objective-C linguist-detectable=false
+* linguist-vendored
+*.dart linguist-vendored=false
